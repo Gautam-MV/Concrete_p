@@ -72,7 +72,7 @@ wincertstore==0.2
 xgboost==0.90
 zipp==2.0.1
 opencv-python
--f https://dl.fbaipublicfiles.com/detectron2/wheels/cu101/torch1.7/index.html
+-f https://dl.fbaipublicfiles.com/detectron2/wheels/cu102/torch1.9/index.html
 detectron2
 -f https://download.pytorch.org/whl/torch_stable.html
 torch==1.9.0+cu102
